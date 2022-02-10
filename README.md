@@ -1,5 +1,8 @@
-   <img border-radius: 15px src="Lfa.jpg" width="200" height="200"/>
+
+<div align="center">
+  <img border-radius: 15px src="malutty.jpg" width="200" height="200"/>
   <p align="center">
+
 
 ## [![malutty](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=FFA500&lines=Welcome+to+malutty+WA+Bot+repo;Created+by+HERMIT+VLOGS;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
 
